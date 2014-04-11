@@ -1,3 +1,4 @@
+
 package com.clintonmedbery.lowcountrysoul;
 
 import android.support.v7.app.ActionBarActivity;
